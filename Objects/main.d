@@ -11,3 +11,7 @@
 .\objects\main.o: D:\Keil5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
 .\objects\main.o: .\Lib\inc\stm32f10x_conf.h
 .\objects\main.o: .\Lib\inc\stm32f10x_rcc.h
+.\objects\main.o: .\Lib\inc\usart.h
+.\objects\main.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: .\Lib\inc\stm32f10x_usart.h
+.\objects\main.o: .\Lib\inc\misc.h
